@@ -5,7 +5,8 @@ MTMC-Scripts is a dedicated development group that is passionate about creating 
 
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-See%20Our%20Scripts-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@mtmcscripting7293?sub_confirmation=1)
-[<img src="https://custom-icon-badges.demolab.com/badge/-Join%20Our%20Discord-blue?style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.gg/PZeBY8QtBD)  
+[<img src="https://custom-icon-badges.demolab.com/badge/-Join%20Our%20Discord-blue?style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.gg/PZeBY8QtBD)
+[<img src="https://custom-icon-badges.demolab.com/badge/-View%20Our%20Store-black?style=for-the-badge&logo=mtmc&logoColor=white"/>](https://mtmc-scripting.tebex.io/)
 
 #
 ---

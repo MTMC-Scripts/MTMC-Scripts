@@ -3,9 +3,10 @@
 
 MTMC-Scripts is a dedicated development group that is passionate about creating custom content for FiveM
 
-
+<p align="left">
 [<img src="https://custom-icon-badges.demolab.com/badge/-See%20Our%20Scripts-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@mtmcscripting7293?sub_confirmation=1)
-
+[<img src="https://custom-icon-badges.demolab.com/badge/-Join%20Our%20Discord-blue?style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.gg/PZeBY8QtBD)  
+</p>
 #
 ---
 

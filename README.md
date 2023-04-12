@@ -1,5 +1,5 @@
 # :diamonds: MTMC Scripts :diamonds:
-[<img src="https://cdn.discordapp.com/attachments/732592564049281024/1095508046702186506/channels4_banner.jpg"/>](https://mtmc-scripting.tebex.io/)
+[<img src="https://cdn.discordapp.com/attachments/732592564049281024/1095508994359037952/2channels4_banner.png"/>](https://mtmc-scripting.tebex.io/)
 
 MTMC-Scripts is a dedicated development group that is passionate about creating custom content for FiveM
 
